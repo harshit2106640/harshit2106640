@@ -1,78 +1,126 @@
-## Thinking clearly. Building correctly.
+<h1 align="center">Hi, I'm Harshit</h1>
+
+<p align="center">
+  Java Developer • DSA Enthusiast • Problem Solver
+</p>
+
+<p align="center">
+  Focused on building strong computer science fundamentals through disciplined practice and deep problem solving.
+</p>
 
 ---
 
-## whoami
+# About Me
 
-I'm a software developer building what most people skip — a real foundation.
-
-My focus is split across two tracks: *Data Structures & Algorithms* to sharpen problem-solving, and *Backend Development in Java* to build real systems. Both matter. I'm doing both.
-
-I'm not racing to accumulate frameworks. I'm focused on the kind of understanding that doesn't expire.
-
----
-
-## Currently Learning
-
-| Track | Current Focus | Status |
-|---|---|---|
-| *DSA* | Arrays, Linked Lists, Trees, Recursion | Active |
-| *Backend* | JDBC, Database Connectivity | Active |
-| *Framework* | Spring Boot | Starting Monday |
-| *APIs* | REST APIs | Planned |
-| *Database* | SQL | Planned |
+- Focused on mastering Data Structures & Algorithms
+- Writing clean and efficient Java code
+- Building strong problem-solving ability
+- Practicing consistency and engineering discipline
+- Learning concepts deeply instead of memorizing solutions
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-- *Language:* Java
-- *IDE:* IntelliJ IDEA
-- *Database Layer:* JDBC
-- *Coming Soon:* Spring Boot, REST APIs, SQL
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
-
-## Goals
-
-*Short-term*
-- [ ] Complete core DSA topics with Java implementations
-- [ ] Get comfortable with JDBC and database connectivity
-- [ ] Build first Spring Boot project
-- [ ] Build and deploy a REST API
-
-*Long-term*
-- [ ] Build a complete backend system from scratch
-- [ ] Contribute to meaningful open-source projects
-- [ ] Work on systems where correctness and performance actually matter
-- [ ] Be the kind of engineer who makes a codebase better by being in it
+### Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## Projects
+# Current Learning Journey
 
-*dsa-java* (in progress)
-Clean Java implementations of every major data structure and algorithm — written to be read, not just run.
+java
+class Growth {
+    public static void main(String[] args) {
 
-*backend-java* (coming soon)
-A collection of backend projects built while learning Spring Boot, REST APIs, and databases.
+        while(true) {
+            learn();
+            practice();
+            improve();
+        }
+    }
+}
+
+
+Currently studying:
+- Arrays & Strings
+- Linked Lists
+- Stacks & Queues
+- Trees & BSTs
+- Recursion & Backtracking
+- Hashing
+- Sorting Algorithms
+- Dynamic Programming
+- Time & Space Complexity
+- Object-Oriented Programming
 
 ---
 
-## Principles
+# Goals
 
-1. Understand before you implement.
-2. Simple is harder than complex. Do the work.
-3. A working solution is not a finished solution.
-4. Read more code than you write.
-5. Fundamentals don't go out of style.
-
----
-
-Open to: Internships, Entry-level Backend Roles, Code reviews, Constructive feedback
-
-java, dsa, jdbc, spring-boot, rest-api, sql, backend
+- Become highly skilled in Java development
+- Master Data Structures & Algorithms
+- Build strong engineering fundamentals
+- Improve analytical thinking
+- Contribute to meaningful software projects
 
 ---
 
-Building in public. Quietly. Consistently.
+# Contribution Mindset
+
+I believe strong developers are built through:
+- consistency
+- curiosity
+- repetition
+- discipline
+- continuous improvement
+
+Every repository here represents learning, iteration, and progress.
+
+---
+
+# Project Highlights
+
+## DSA Repository
+A structured collection of algorithmic problems and optimized Java solutions.
+
+## Java Fundamentals
+Hands-on implementations of:
+- OOP concepts
+- Core Java
+- Collections Framework
+- Problem-solving patterns
+
+## Problem Solving Practice
+Daily coding exercises focused on:
+- optimization
+- edge cases
+- clean code
+- logical thinking
+
+---
+
+
+
+# Connect
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Building fundamentals. Solving deeply. Improving daily.
+</p>
