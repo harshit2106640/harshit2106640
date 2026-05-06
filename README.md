@@ -1,4 +1,3 @@
-
 <div align="center">
 ╔══════════════════════════════════════════════════════╗
 ║         Thinking clearly. Building correctly.        ║
